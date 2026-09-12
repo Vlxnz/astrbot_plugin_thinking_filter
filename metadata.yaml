@@ -1,6 +1,6 @@
 name: astrbot_plugin_thinking_filter
 desc: 在发送前移除模型泄露的 thinking/analysis 推理块
 version: 0.1.0
-author: local
-repo: ""
+author: Vlxnz
+repo: "https://github.com/Vlxnz/astrbot_plugin_thinking_filter"
 
