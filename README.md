@@ -50,10 +50,6 @@ astrbot_plugin_thinking_filter/
 `-- LICENSE
 ```
 
-## 发布前设置
-
-创建 GitHub 仓库后，将 `metadata.yaml` 中的 `repo` 填为仓库完整 URL。作者字段也可以按实际 GitHub 用户名修改。
-
 ## 许可证
 
 MIT License，见 [LICENSE](LICENSE)。
